@@ -61,4 +61,6 @@ public class TorpedoStore {
   public int getTorpedoCount() {
     return this.torpedoCount;
   }
+
+  //Eeees itt is valtoztatok valamit
 }
